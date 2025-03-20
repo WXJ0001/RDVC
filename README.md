@@ -12,11 +12,11 @@ The official PyTorch implementation of our paper. If our open-source codes are h
   doi={10.1109/TMM.2025.3543005}
 }
 ```
-## Test
+## Dependency
 
-- Dependency
-  
-  - see env.txt
+- see env.txt
+
+## Test
 
 - Please load the pre-training model weights ([Download link(code:asdf)](https://pan.baidu.com/s/1TXn-Njw6en9k7x4U_nFM2A?pwd=asdf)) first, and then run the test file Test_RDVC.py
 
